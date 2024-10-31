@@ -1,0 +1,28 @@
+move1,move2,move3,Result,bot1,bot2
+e2e4,g1f3,f1c4,White wins!,Stockfish,LCZero
+e2e4,g1f3,f1c4,White wins!,Stockfish,LCZero
+e2e4,g1f3,f1c4,White wins!,Stockfish,LCZero
+e2e4,g1f3,f1c4,White wins!,Stockfish,LCZero
+e2e4,g1f3,f1c4,White wins!,Stockfish,LCZero
+e2e4,e7e5,g1f3,White wins!,Stockfish,LCZero
+e2e4,g1f3,f1c4,White wins!,Stockfish,LCZero
+e2e4,g1f3,f1c4,White wins!,Stockfish,LCZero
+e2e4,g1f3,f1c4,White wins!,Stockfish,LCZero
+e2e4,e7e5,f1c4,White wins!,Stockfish,LCZero
+e2e4,e7e5,g1f3,Draw (fivefold repetition),Stockfish,Stockfish
+e2e4,e7e5,g1f3,Draw (fivefold repetition),LCZero,LCZero
+e2e4,e7e5,f1c4,Draw (insufficient material),LCZero,Stockfish
+d2d4,d7d5,c2c4,White wins!,Stockfish,LCZero
+e2e4,c7c5,g1f3,White wins!,Stockfish,LCZero
+e2e4,e7e6,d2d4,Draw (insufficient material),Stockfish,Stockfish
+d2d4,g8f6,c4g6,Black wins!,LCZero,LCZero
+g1f3,d7d5,g2g3,Draw (insufficient material),LCZero,LCZero
+c2c4,e7e5,g1f3,White wins!,Stockfish,LCZero
+e2e4,e7e5,g1f3,Draw (fivefold repetition),Stockfish,Stockfish
+e2e4,e7e5,f1c4,Draw (insufficient material),LCZero,LCZero
+d2d4,d7d5,c2c4,Draw (fivefold repetition),LCZero,Stockfish
+e2e4,c7c5,g1f3,Draw (fivefold repetition),Stockfish,Stockfish
+e2e4,e7e6,d2d4,White wins!,Stockfish,LCZero
+d2d4,g8f6,c4g6,Draw (fivefold repetition),Stockfish,Stockfish
+g1f3,d7d5,g2g3,Draw (fivefold repetition),LCZero,LCZero
+c2c4,e7e5,g1f3,Black wins!,LCZero,Stockfish

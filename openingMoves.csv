@@ -1,0 +1,21 @@
+# Common Chess Openings
+# Italian Game
+e2e4,e7e5,g1f3
+# Bishop's Opening
+e2e4,e7e5,f1c4
+# Queen's Gambit
+d2d4,d7d5,c2c4
+# Sicilian Defense
+e2e4,c7c5,g1f3
+# French Defense
+e2e4,e7e6,d2d4
+# Grünfeld Defense
+d2d4,g8f6,c4g6
+# Najdorf Variation, Sicilian Defense
+#e4,c5,Nf3,d6
+# Slav Defense
+#d4,d5,c4,e6
+# King's Indian Attack
+g1f3,d7d5,g2g3
+# English Opening
+c2c4,e7e5,g1f3
